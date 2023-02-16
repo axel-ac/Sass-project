@@ -31,7 +31,7 @@ Sass-website-page-design (folder)
         |----img (folder)
 ```
 ## Project-gif
-        
+![Sass-project](https://user-images.githubusercontent.com/102467587/219283604-7709569d-e7fa-4e46-8e3f-55b563f9d79c.gif)
 ## Project-link
 https://axel-ac.github.io/Sass-project/
 ### At the end of the project, following topics are to be covered;
