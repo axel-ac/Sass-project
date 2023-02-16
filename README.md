@@ -2,6 +2,7 @@
 ## Description
 Project aims to create website site using Sass..
 ## Project Skeleton
+```
 Sass-website-page-design (folder)
 |
 |----readme.md                 
@@ -28,10 +29,11 @@ Sass-website-page-design (folder)
                     |----_projects.scss 
               |----main.scss  
         |----img (folder)
+        ```
 ## Project-gif
         
 ## Project-link
-        
+https://axel-ac.github.io/Sass-project/
 ### At the end of the project, following topics are to be covered;
 - HTML 
 - CSS
