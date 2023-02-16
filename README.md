@@ -8,10 +8,13 @@ Sass-website-page-design (folder)
 |----readme.md                 
 |----images             
 |----solution
-        |----index.html  
+        |----index.html
+        |----about.html
+        |----contact.html
+        |----projects.html 
         |----css (folder)   
-              |----style.css  
-              |----style.css.map  
+              |----main.css  
+              |----main.css.map  
         |----scss (folder)   
               |----abstracts (folder) 
                     |----_mixin.scss 
