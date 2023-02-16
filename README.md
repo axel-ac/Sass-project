@@ -29,7 +29,7 @@ Sass-website-page-design (folder)
                     |----_projects.scss 
               |----main.scss  
         |----img (folder)
-        ```
+```
 ## Project-gif
         
 ## Project-link
