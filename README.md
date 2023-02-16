@@ -1,6 +1,6 @@
 # Sass Website Page Design
 ## Description
-Project aims to create website site using Sass..
+Project aims to create website site using Sass.
 ## Project Skeleton
 ```
 Sass-website-page-design (folder)
